@@ -1,3 +1,59 @@
-.bg-light {
-    background-color: #00025a;
+nav {
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 2px;
+    border-color: #dddddd;
+    border-bottom-style: solid;
+    margin-bottom: 20px;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #777777;
+    background: url("concrete.png")
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    color: white; 
+    height: 80px;
+    margin-top: -8px;
+    margin-bottom: -8px;
+    margin-left: 10%;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.image-fluid {
+        max-width: 100%;
+        height: auto;
+      width: 300px;
+      height: 300px;
+      padding-right: 10px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+}
+
+.mt-0 {
+    color: #4aaaa5;
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.container {
+    background-color: white;
+}
+
+.footer {
+    background-color: #666666;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 1425px;
+    height: 100px;
+    margin-top: 15%;
+    border-top: #4aaaa5;
+    border-top-width: 20px;
+    border-style: solid;
+    text-align: center;
+    padding-top: 25px;
 }
