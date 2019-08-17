@@ -47,6 +47,7 @@ body {
 
 .footer {
     background-color: #666666;
+    color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     width: 1425px;
     height: 100px;
@@ -57,3 +58,4 @@ body {
     text-align: center;
     padding-top: 25px;
 }
+
